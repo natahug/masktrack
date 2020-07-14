@@ -1,0 +1,133 @@
+.container{
+    font-family: 'Open Sans', sans-serif;
+    width:1080px;
+    height:1920px;
+    background-color: #13294B;
+}
+#footer, #boarder, #board{
+    width:1080px;
+
+}
+
+#unc-logo{
+    height:30px;
+    padding-left:50px;
+    padding-top:50px;
+    padding-bottom:50px;
+}
+#datetime{
+    font-family: franklin-gothic-compressed, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color:white;
+    font-size: 40px;
+    
+    float:right;
+    padding-right:50px;
+    padding-top:45px;
+    padding-bottom:50px;
+
+
+}
+#cv-intro{
+    height: 217px;
+    width: 500px;
+    font-size: 20px;
+    float: left;
+    padding-left: 50px;
+    color: white;
+    text-align: justify;
+}
+#disclaim{
+    color: white;
+    font-size: 11.5px;
+    text-align: justify;
+    /* float: right; */
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 10px;
+    float: right;
+    width: 424px;
+    height: 54px;
+    margin-top: -15px;
+    margin-bottom: 5px;
+    padding-top: 12px;
+}
+.cv-container{
+    background: url("/content/Asset\ 2.png")no-repeat;
+    height:217px;
+    width:424px;
+
+    float: right;
+    padding-right:50px
+    /* margin-right:50px;
+    margin-top:10px;
+    margin-bottom:50px; */
+}
+
+.protect-others{
+    color: white;
+    /* font-size: 70px; */
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+    height: 100px;
+    font-weight: 300;
+    /* margin-top: 0; */
+    padding: 60p;
+    padding: 80px
+
+}
+#protect{
+    font-size: 71px;
+    margin: 0
+}
+
+.streak{
+    height:240px;
+}
+#streak{
+    float: left;
+    margin-left: 90px;
+    margin-top: -60px;
+    margin-bottom: -73px;
+    color: white;
+    text-align: justify;
+    font-size: 300px;
+    letter-spacing: .05em;
+    font-family: franklin-gothic-compressed, sans-serif;
+    color: white;
+    
+}
+ #people-have{
+    
+   
+     float: right;
+    margin-right:50px;
+    margin-top:10px;
+    margin-bottom:50px;
+    font-size: 90px;
+  
+     color: #4B9CD3;
+     font-family: franklin-gothic-compressed, sans-serif;
+ }
+ #rules{
+     color: white;
+     text-align: center;
+     font-family: franklin-gothic-compressed, sans-serif;
+     font-size: 52px;
+     padding-left: 50px;
+    padding-right: 50px;
+
+ }
+ #visit{
+    padding-left:50px;
+    color: white;
+    text-align: left;
+    font-size: 45px;
+    font-weight: 300;;
+
+ }
+.cv{
+    height:250px;
+}
